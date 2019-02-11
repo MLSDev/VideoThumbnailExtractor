@@ -1,4 +1,4 @@
-# RxImagePicker
+# VideoThumbnailExtractor
 
 ThumbnailExtractor is an easy way to extract and pick thumbnail image from Video frames
 
