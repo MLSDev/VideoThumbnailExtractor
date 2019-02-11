@@ -6,8 +6,8 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 
-def siteUrl = 'https://github.com/Frederikos/ThumbnailExtractor'
-def gitUrl = 'https://github.com/Frederikos/ThumbnailExtractor.git'
+def siteUrl = 'https://github.com/Frederikos/VideoThumbnailExtractor'
+def gitUrl = 'https://github.com/Frederikos/VideoThumbnailExtractor.git'
 
 version = "1.0.0"
 group = "com.mlsdev.thumbnailextractor"
