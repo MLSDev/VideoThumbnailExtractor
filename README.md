@@ -33,7 +33,8 @@ ThumbnailExtractor.with(supportFragmentManager).extractThumbnail(videoUri).obser
 ```
 
 ## Sample App
-<img src="https://cloud.githubusercontent.com/assets/1778155/11761109/cb70a420-a0bd-11e5-8cf1-e2b172745eab.png" width="400">
+<img src="https://user-images.githubusercontent.com/1778155/52572494-9a0ec080-2e20-11e9-9494-48793d7f95a6.png" width="400">
+<img src="https://user-images.githubusercontent.com/1778155/52572495-9a0ec080-2e20-11e9-91ab-91188246addb.png" width="400">
 
 ## Authors
 * [Sergey Glebov](mailto:glebov@mlsdev.com) ([frederikos][github-frederikos]), MLSDev 
